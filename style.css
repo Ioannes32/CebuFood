@@ -331,6 +331,7 @@ section{
     display: flex;
     align-items: center;
     flex-direction: column;
+    color: whitesmoke;
 }
 
 .contact-container h2{
