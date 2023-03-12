@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: whitesmoke;
+    background-color: #F5F5DC;
     color: black;
 }       
 
@@ -52,6 +52,9 @@ nav img{
     width: 7%;
 }
 
+.nav-links{
+    background-color: white;
+}
 .nav-links ul{
     font-size: 18px;
     display: flex;
