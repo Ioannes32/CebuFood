@@ -91,7 +91,7 @@ nav img{
 }
 
 .front-page-background{
-    background-image: url(./images/food..jpg);
+    background-image: url(./images/23.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 5px;
@@ -338,6 +338,7 @@ section{
     font-size: 30px;
     padding: 2%;
     text-decoration: underline yellowgreen;
+    color: white;
 }
 
 .contact-container form{
