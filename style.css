@@ -91,7 +91,7 @@ nav img{
 }
 
 .front-page-background{
-    background-image: url(./images/23.jpg);
+    background-image: url(/images/23.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 5px;
@@ -331,7 +331,7 @@ section{
     display: flex;
     align-items: center;
     flex-direction: column;
-    color: whitesmoke;
+    color: white;
 }
 
 .contact-container h2{
